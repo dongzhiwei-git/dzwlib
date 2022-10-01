@@ -1,4 +1,4 @@
-module dzwlib
+module github.com/dongzhiwei-git/dzwlib
 
 go 1.18
 
