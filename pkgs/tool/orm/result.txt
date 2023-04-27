@@ -1,0 +1,1 @@
+select * from user where id = '1' or name = 'dzw'
